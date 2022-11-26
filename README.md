@@ -36,4 +36,4 @@ _R&R definition_: The risk/reward ratio marks the prospective reward an investor
 
 Back to the main problem. So you have had **1000$** as your **initial investment**.
 
-[see more](https://github.com/mr-seifi/position-sizing-optimizer/position_optimizer.ipynb)
+[see more](https://github.com/mr-seifi/position-sizing-optimizer/blob/master/position_optimizer.ipynb)
