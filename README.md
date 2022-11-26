@@ -36,28 +36,4 @@ _R&R definition_: The risk/reward ratio marks the prospective reward an investor
 
 Back to the main problem. So you have had **1000$** as your **initial investment**.
 
-### Example
-
-Frankly speaking, since your win rate equals 50%, So your trades are supposed to be win-loss-win-loss-win-loss..., However, your R&R is 2, so in each step, you win, your capital is raised two times then lost. Thus
-
-### $$ Position Sizing = 70\% $$
-
-1. **WIN**: $$ 1000\$ * 70\% = 700\$ \xrightarrow{+1400\$} Cap = 1000\$ + 1400\$ = 2400\$ $$
-2. **LOSS**: $$ 2400\$ * 70\% = 1680\$ \xrightarrow{-1680\$} Cap = 2400\$ - 1680\$ = 720\$ $$
-3. **WIN**: $$ 720\$ * 70\% = 504\$ \xrightarrow{+1008\$} Cap = 720\$ + 1008\$ = 1728\$ $$
-4. **LOSS**: $$ 1728\$ * 70\% = 1209.6\$ \xrightarrow{-1209.6\$} Cap = 1728\$ - 1209.6\$ = 518.4\$ $$
-5. **WIN**: $$ 518.4\$ * 70\% = 362.88\$ \xrightarrow{+725.76\$} Cap = 518.4\$ + 725.76\$ = 1244.16\$ $$
-6. **LOSS**: $$ 1244.16\$ * 70\% = 870.912\$ \xrightarrow{-870.912\$} Cap = 1244.16\$ - 870.912\$ = 373.248\$ $$
-
-### $$ Position Sizing = 10\% $$
-
-1. **WIN**: $$ 1000\$ * 10\% = 100\$ \xrightarrow{+200\$} Cap = 1000\$ + 200\$ = 1200\$ $$
-2. **LOSS**: $$ 1200\$ * 10\% = 120\$ \xrightarrow{-120\$} Cap = 1200\$ - 120\$ = 1080\$ $$
-3. **WIN**: $$ 1080\$ * 10\% = 108\$ \xrightarrow{+216\$} Cap = 1080\$ + 216\$ = 1296\$ $$
-4. **LOSS**: $$ 1296\$ * 10\% = 129.6\$ \xrightarrow{-129.6\$} Cap = 1296\$ - 129.6\$ = 1166.4\$ $$
-5. **WIN**: $$ 1166.4\$ * 10\% = 116.64\$ \xrightarrow{+233.28\$} Cap = 1166.4\$ + 233.28\$ = 1399.68\$ $$
-6. **LOSS**: $$ 1399.68\$ * 10\% = 139.968\$ \xrightarrow{-139.968\$} Cap = 1399.68\$ - 139.968\$ = 1259.712\$ $$
-
-## What is the most efficient position sizing?
-
 [see more](https://github.com/mr-seifi/position-sizing-optimizer/position_optimizer.ipynb)
